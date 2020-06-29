@@ -8,6 +8,7 @@ Parts include:
 - Flush Handstop
 - Flush Handstop, with angled foregrip
 - Base Cover - the base model for the handstops. (Use this to create new designs!)
+- Picatinny Side Rails - Use with two M4 x 8mm screws for each rail you print.
 
 Not affiliated or endorsed with KRISS.
 
